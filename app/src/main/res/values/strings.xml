@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task App</string>
+    <string name="price">%1$.2f $</string>
+    <string name="tap_to_message_for_refresh">Tap to message for refresh</string>
+</resources>
