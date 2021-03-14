@@ -41,14 +41,14 @@ ext {
     espressoCore = '3.3.0'
     moshiConverterVersion = '2.9.0'
     retrofitVersion = '2.9.0'
-    loggingVersion = '4.3.1'
+    loggingVersion = '5.0.0-alpha.2'
     roomVersion = '2.2.5'
     koinVersion = '2.2.0'
     lifecycleVersion = '2.3.0'
     legacySupportVersion = "1.0.0"
     glideVersion = '4.12.0'
-    roomSql = '2.3.0-beta01'
-    navigationVersion = '2.3.3'
+    roomSql = '2.3.0-beta03'
+    navigationVersion = '2.3.4'
     rxJava = '3.0.0'
     rxJavaAdapter = '3.0.0'
 

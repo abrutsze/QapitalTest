@@ -37,5 +37,5 @@ dependencies {
     implementation "androidx.room:room-ktx:$roomSql"
     kapt "androidx.room:room-compiler:$roomSql"
 
-    implementation "androidx.room:room-rxjava3:2.3.0-beta01"
+    implementation 'androidx.room:room-rxjava3:2.3.0-beta03'
 }
